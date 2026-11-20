@@ -23,6 +23,6 @@ while total_seconds >= 0:
 
     total_seconds -= 1
 
-print("Countdown finished!")
+print("Countdown finished")
 
 
